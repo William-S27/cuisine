@@ -1,2 +1,2 @@
 # cuisine
-Création de mon site web de cuisine!
+Création de mon site web de **cuisine**!
