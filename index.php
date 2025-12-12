@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>W Cook</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php include 'header.php'; ?>
+<h2>Liste des recettes</h2>
+<ul>
+    <li><a href="recettes/lasagnes.php">Lasagnes</li>
+</ul>
+<?php include 'footer.php'; ?>
